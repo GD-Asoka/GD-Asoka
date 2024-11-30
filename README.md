@@ -1,5 +1,5 @@
 ## Hi there 
-# Welcome to my Github prolfile
+# Welcome to my Github profile
 
 <!--
 **GD-Asoka/GD-Asoka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
